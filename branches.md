@@ -1,3 +1,3 @@
 # Explicação do que é uma branch
 
-Branch é uma cópia paralela do código 
+Branch é um rascunho de desenvolvimento
