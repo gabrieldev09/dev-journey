@@ -34,3 +34,10 @@ git branch -d feature/... joga o rascunho fora
 - source ~/.bashrc - recarrega arquivo sem fechar o terminal
 - nano - editor de texto no terminal 
 "No mundo real você nunca vai colocar senhas diretamente no .bashrc do servidor - vai usar arquivos .env que o Spring Boot lê automaticamente. Mas o conceito é o mesmo: separar segredos de código.
+
+--- Permissões 
+
+- chmod - muda permissões
+- grep - busca texto em arquivo
+- > vs >> sobrescreve vs adiciona 
+- find - busca arquivos 
